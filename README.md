@@ -199,7 +199,7 @@ This comprehensive guide provides all the resources you need to understand Windo
 #### 📝 Hands-On Practice
 
 **12. Set up DFIR Lab**
-- **Guide:** Use the `README.md` from this repository
+- **Guide:** Use the `README.md` from this repository https://github.com/Ashiii27/ForensicLab-setup
 - **Time Investment:** 4-6 hours for complete setup
 - **Requirements:**
   - VirtualBox
